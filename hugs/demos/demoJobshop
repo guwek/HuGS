@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /homes/lesh/java/hugs;
+/homes/lesh/java/jdk1.3/bin/java -classpath "/homes/lesh/java/" hugs.apps.jobshop.Jobshop -spanSize 1 -noAutoStart -loadProblem /homes/lesh/java/hugsSandbox/problems/la16.jsp $0 $1 $2 $3 $4 $5 $6 $7 $8 $9
