@@ -9,6 +9,17 @@ HuGS was developed by Neal Lesh, Gunnar W. Klau, Michael Mitzenmacher, and Joe M
 
 > Klau, G. W., Lesh, N., Marks, J., and Mitzenmacher, M. 2002. Human-guided tabu search. In Proceedings of the 18th National Conference on Artificial Intelligence (AAAI'02]. AAAI Press. 41–47.
 
+## Installation/Compilation
+
+There should be a Makefile, but there isn't. Whoever reads this, please add one. Otherwise compile the code using
+
+    javac hugs/*java
+    javac hugs/apps/crossing/*java
+    javac hugs/apps/delivery/*java
+    javac hugs/apps/jobshop/*java
+    javac hugs/apps/protein/*java
+    javac hugs/apps/stpc/*java
+
 ## Usage
 
 To run the programs, try
