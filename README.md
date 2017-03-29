@@ -24,18 +24,10 @@ how to specify the problem.
 
 Here are a few of the less obvious features of the system:
 
-    - Double-click on the background to unselect all elements
+- Double-click on the background to unselect all elements
 
-    - The red, yellow, and green squares near the score are shortcuts
-      for setting mobilities.  Click on them once to set the mobilities
-      of the selected elements.
+- The red, yellow, and green squares near the score are shortcuts for setting mobilities.  Click on them once to set the mobilities of the selected elements.
 
-    - Double-click on the mobility icons to set the mobility of _all_
-      elements.
+- Double-click on the mobility icons to set the mobility of _all_ elements.
 
-    - The Selections menu allows you to mark (and unmark) elements.
-      Some of the applications allow you to specify secondary
-      objective functions on marked elements, by controlling the
-      inputs to the search algorithm (press the "Inputs" button to get
-      the controls) For example, in Crossing you can tell the search
-      algorithm to move marked elements to the left or right.
+- The Selections menu allows you to mark (and unmark) elements. Some of the applications allow you to specify secondary objective functions on marked elements, by controlling the inputs to the search algorithm (press the "Inputs" button to get the controls) For example, in Crossing you can tell the search algorithm to move marked elements to the left or right.
